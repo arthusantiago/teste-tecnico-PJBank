@@ -48,6 +48,14 @@ View
 `templates/Users/add.php`
 `templates/Users/edit.php`
 
+## Exercício 2
+
+Controller
+`src/Controller/PagesController.php`
+
+View
+`templates/Pages/manipulando_array.php`
+
 ## Outros arquivos
 
 Home

@@ -19,6 +19,16 @@
                         ?>        
                     </td>
                 </tr>
+                <tr>
+                    <td><?= h("Exercício 2") ?></td>
+                    <td>
+                        <?= $this->Html->link(
+                        __('Manipulação de Array'),
+                        ['controller' => 'Pages',  'action' => 'manipulandoArray'],
+                        ['target' => '_blank']) 
+                        ?>        
+                    </td>
+                </tr>                
             </tbody>
         </table>
     </div>
