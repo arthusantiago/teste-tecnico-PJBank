@@ -28,7 +28,17 @@
                         ['target' => '_blank']) 
                         ?>        
                     </td>
-                </tr>                
+                </tr>
+                <tr>
+                    <td><?= h("Exercício 3") ?></td>
+                    <td>
+                        <?= $this->Html->link(
+                        __('DML'),
+                        ['controller' => 'Pages',  'action' => 'dml'],
+                        ['target' => '_blank']) 
+                        ?> 
+                    </td>
+                </tr>                                   
             </tbody>
         </table>
     </div>

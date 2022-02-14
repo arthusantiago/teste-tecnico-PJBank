@@ -42,4 +42,8 @@ class PagesController extends AppController
     public function manipulandoArray()
     {
     }
+
+    public function dml()
+    {
+    }
 }

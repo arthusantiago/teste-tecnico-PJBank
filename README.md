@@ -56,6 +56,14 @@ Controller
 View
 `templates/Pages/manipulando_array.php`
 
+## Exercício 3
+
+Controller
+`src/Controller/PagesController.php`
+
+View
+`templates/Pages/dml.php`
+
 ## Outros arquivos
 
 Home
